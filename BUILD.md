@@ -18,3 +18,10 @@ Builds OK with Binder.
 
 
 
+## Push repo
+
+```
+git remote add origin git@github-oilgains:binder-oilgains/data_vis_statistics_geosciences.git
+git branch -M main
+git push -u origin main
+```
