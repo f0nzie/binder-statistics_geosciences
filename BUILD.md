@@ -34,6 +34,7 @@ git push -u origin main
 
 ## Installing `pip-tools`
 
+
 Installing in conda environment `base` the utility `pip-tools` with:
 
 ```
@@ -119,3 +120,8 @@ welly==0.4.9
 
 
 ```
+
+## References
+
+* [pip-tools](https://github.com/jazzband/pip-tools/). Contains utility `pip-compile`.
+
