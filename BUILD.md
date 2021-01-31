@@ -8,12 +8,12 @@
 
 ## Status
 
-*   Builds OK with Binder.
-*   Some problems installing `importlib`, `mpl_toolkits.basemap` with pip
-*   Switch to conda
-*   Necessary to install GEOS
-*   Download data for `lab6`
-*   
+*   Most of the notebooks builds OK with Binder based on Python `pip`.
+*   Some problems installing `importlib`, `mpl_toolkits.basemap` with **pip**
+*   Switch to `conda` and see if problems go away
+*   Download data for **lab6**: `G10010_sibt1850_v2.0.nc`
+
+
 
 ## Screenshots
 
@@ -148,14 +148,14 @@ https://stackoverflow.com/a/39924810/5270873
 
 
 
-## Data
+## Data for *lab6*
 
 *   Gridded Monthly Sea Ice Extent and Concentration, 1850 Onward, Version 2
+    ![image-20210131092240169](assets/BUILD/image-20210131092240169.png)
 
-* ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G10010_V2/
+* [Download via ftp](ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G10010_V2/)
 
 ![image-20210131015947705](assets/BUILD/image-20210131015947705.png)
-
 
 
 
