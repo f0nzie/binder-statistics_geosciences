@@ -6,7 +6,7 @@
 
 
 
-[![badge](./binder/binder-jupyter.svg)](http://mybinder.org/v2/gh/f0nzie/binder-statistics_geosciences/main)
+[![badge](./assets/binder-jupyter.svg)](http://mybinder.org/v2/gh/f0nzie/binder-statistics_geosciences/main)
 
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/f0nzie/binder-statistics_geosciences/main)
 
