@@ -137,6 +137,11 @@ https://zoomadmin.com/HowToInstall/UbuntuPackage/python-mpltoolkits.basemap
 
 
 
+## Data
+
+* ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G10010_V2/
+
+
 
 
 ## References
