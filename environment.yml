@@ -1,0 +1,16 @@
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - seaborn
+  - pandas
+  - importlib_resources
+  - scikit-learn
+  - Pillow
+  - proj
+  - basemap
+  - netCDF4
+  - basemap-data-hires
+
+  
