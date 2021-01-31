@@ -8,8 +8,6 @@
 
 [![badge](./assets/binder-jupyter.svg)](http://mybinder.org/v2/gh/f0nzie/binder-statistics_geosciences/main)
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/f0nzie/binder-statistics_geosciences/main)
-
 ## Introduction
 
 This is a step-by-step guide on how to turn your Jupyter notebooks into live applications by adding a remote virtual machine running in [my.binder.org](https://mybinder.org/). The virtual machine is automatically built in the background after you supply a list of the packages that your notebooks or scripts require. 
@@ -34,9 +32,12 @@ Original repository: https://github.com/abbyazari/data_vis_statistics_geoscience
 
 
 
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/f0nzie/binder-statistics_geosciences/main)
+
 # README
 
 # Data Visualization & Statistics in the Geosciences 2019
+
 UPDATE: The 2020+ versions of this class are hosted on a the following [course specific Github page](https://github.com/clasp423/data_vis_statistics_geosciences).
 
 This repository contains the laboratory portion of a split upper level undergraduate / graduate class in Python on data visualization and statistics for geo &amp; space scientists. There are two branches hosted here from 2019 and 2018 versions of the course. 
