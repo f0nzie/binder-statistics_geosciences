@@ -121,6 +121,24 @@ welly==0.4.9
 
 ```
 
+
+
+## Install GEOS
+
+https://packages.ubuntu.com/search?keywords=geos&searchon=sourcenames&suite=all&section=all
+
+
+
+## Install `mpl_toolkit`
+
+https://zoomadmin.com/HowToInstall/UbuntuPackage/python-mpltoolkits.basemap
+
+![image-20210131003321704](assets/BUILD/image-20210131003321704.png)
+
+
+
+
+
 ## References
 
 * [pip-tools](https://github.com/jazzband/pip-tools/). Contains utility `pip-compile`.
