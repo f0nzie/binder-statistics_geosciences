@@ -1,2 +1,2 @@
 libgeos++-dev
-mpltoolkits.basemap
+python-mpltoolkits.basemap
