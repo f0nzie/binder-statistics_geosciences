@@ -11,5 +11,6 @@ dependencies:
   - proj
   - basemap
   - netCDF4
+  - basemap-data-hires
 
   
