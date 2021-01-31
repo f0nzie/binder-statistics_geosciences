@@ -8,6 +8,8 @@
 
 [![badge](./binder/binder-jupyter.svg)](http://mybinder.org/v2/gh/f0nzie/binder-statistics_geosciences/main)
 
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/f0nzie/binder-statistics_geosciences/main)
+
 ## Introduction
 
 This is a step-by-step guide on how to turn your Jupyter notebooks into live applications by adding a remote virtual machine running in [my.binder.org](https://mybinder.org/). The virtual machine is automatically built in the background after you supply a list of the packages that your notebooks or scripts require. 
@@ -125,4 +127,3 @@ Last update 12/4/2019
 # License
 The content and lessons of this repository itself is licensed under the [Creative Commons Attribution-Non Commercial 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/). However, the specific code used within the notebooks taken out of context and to format and display that content is licensed under the [MIT license](https://choosealicense.com/licenses/mit/).
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/f0nzie/binder-statistics_geosciences/main)
