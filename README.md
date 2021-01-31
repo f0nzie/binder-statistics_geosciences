@@ -1,10 +1,10 @@
-# binder-statistics_geoscience
+# binder-statistics_geosciences
 
 >   Making reproducibility stronger in Jupyter and Rmarkdown
 >
 >   Creating live applications from Jupyter notebooks
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-oilgains/data_vis_statistics_geosciences/main)
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/f0nzie/binder-statistics_geosciences/main)
 
 ## Introduction
 
