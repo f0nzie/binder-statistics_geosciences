@@ -2,6 +2,7 @@
 
 ## Python environment with a `requirements.txt` for Python packages
 
+Original repository: https://github.com/abbyazari/data_vis_statistics_geosciences
 
 
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-oilgains/data_vis_statistics_geosciences/conda)
