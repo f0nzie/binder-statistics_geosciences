@@ -1,0 +1,24 @@
+#	Panoply cpt file created by hand for SIBT1850 sea ice sources
+# RGB
+-1.0	169	169	169	0.5	169	169	169   # Gray     Land
+0.5	70	153	144	1.5	70	153	144     # Teal     Satellite Passive Microwave
+1.5	245	130	49	2.5	245	130	49      # Orange   Danish Meterological Insitute
+2.5	66	212	244	3.5	66	212	244     # LtBlue   Dehn
+3.5	0	0	75	4.5	0	0	75              # Navy     NAVO yearbooks
+4.5	255	255	25	5.5	255	255	25      # Yellow   AARI
+5.5	240	50	230	6.5	240	50	230     # Magenta  Hill
+6.5	191	239	69	7.5	191	239	69      # Lime     Whaling - sea ice covered
+7.5	60	180	75	8.5	60	180	75      # Green    Whaling - partial sea ice
+8.5	128	128	0	9.5	128	128	0         # Olive    Whaling - open water
+9.5	154	99	36	10.5	154	99	36    # Brown    DMI yearbook narrative
+10.5	128	0	0	11.5	128	0	0         # Maroon   ACSYS
+11.5	145	30	180	12.5	145	30	180 # Purple   Walsh and Johnson
+12.5	230	25	75	13.5	230	25	75  # Red      JMA Charts
+13.5	67	99	216	14.5	67	99	216 # Blue     Kelly ice extent grids
+14.5	170	255	195	15.5	170	255	195 # Mint     Corrected landmask mismatch
+15.5	230	190	255	16.5	230	190	255 # Lavender Extrapolated to fill ocean
+16.5	250	190	190	17.5	250	190	190 # Pink     Analog fill - spatial
+17.5	255	216	177	19.0	255	216	177 # Apricot  Analog fill - temporal
+B	128	128	128
+F	164	164	164
+N	192	192	192
