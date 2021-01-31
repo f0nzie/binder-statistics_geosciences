@@ -5,6 +5,7 @@ dependencies:
   - numpy
   - seaborn
   - pandas
+  - importlib_resources
   - scikit-learn
   - Pillow
   - proj
